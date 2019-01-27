@@ -1,0 +1,27 @@
+{
+  "name": "docker-image-explorer",
+  "version": "0.0.1",
+  "description": "Tools for exploring docker images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codertao/docker-image-explorer.git"
+  },
+  "keywords": [
+    "docker",
+    "registry",
+    "utilities"
+  ],
+  "author": "CoderTao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codertao/docker-image-explorer/issues"
+  },
+  "homepage": "https://github.com/codertao/docker-image-explorer#readme",
+  "dependencies": {
+    "docker-registry-client": "^3.3.0"
+  }
+}
